@@ -1,0 +1,12 @@
+.navbar{
+    background: #085E7D;
+}
+
+.bg-dark{
+    background: #085E7D;
+}
+
+.button:hover,
+.button:focus{
+    outline-offset: 3px;
+}
